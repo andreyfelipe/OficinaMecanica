@@ -2,7 +2,7 @@
 Andrey Felipe 23/05/2026
 
 
-Este projeto é uma API REST construída com .NET para desenvolvimento do projeto do desafio para .net junior na empresa Code n’ App - codenapp.com  Tecnologia e Inovação para sua empresa
+Este projeto é uma API REST construída com .NET para desenvolvimento do projeto do desafio para desenvolvedor .net  na empresa Code n’ App - codenapp.com  Tecnologia e Inovação para sua empresa
 A Code n’ App leva inovação através de tecnologias e serviços de ponta, oferecendo soluções eficientes e acessíveis para o seu negócio.
 
 
